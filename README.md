@@ -1,6 +1,4 @@
--Hello, I’m M. Samuel!
--I’m interested in bioinformatics software development
--I’m currently learning Python and C++
+-Hello, I’m M Samuel (@msamue)!
 
 <!---
 msamue/msamue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
